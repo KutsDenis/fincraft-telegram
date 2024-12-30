@@ -1,0 +1,5 @@
+# Конфиги
+.env
+!example.env
+
+.idea
